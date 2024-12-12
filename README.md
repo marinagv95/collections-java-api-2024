@@ -32,4 +32,8 @@ Navegue até o diretório do projeto.
 
 Execute o seguinte comando para mudar a URL remota para SSH:
 
+git remote set-url origin git@github.com:marinagv95/collections-java-api-2024.git
+
+
+
 
